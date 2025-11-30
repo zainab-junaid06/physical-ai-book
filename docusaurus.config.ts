@@ -88,7 +88,7 @@ const config: Config = {
           label: 'Book',
         },
         {
-          href: 'https://github.com/SohaibMsj/physical-ai-book/',
+          href: 'https://github.com/zainab-junaid06/physical-ai-book/',
           label: 'GitHub',
           position: 'right',
         },
