@@ -1,0 +1,24 @@
+{
+  "id": "physical-ai/overview",
+  "title": "Introduction to Physical AI",
+  "description": "This course teaches robotics, humanoids, ROS2, Gazebo...",
+  "source": "@site/docs/physical-ai/overview.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/overview",
+  "permalink": "/docs/physical-ai/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "embodied-intelligence",
+    "permalink": "/docs/physical-ai/embodied-intelligence"
+  },
+  "next": {
+    "title": "what-is-physical-ai",
+    "permalink": "/docs/physical-ai/what-is-physical-ai"
+  }
+}

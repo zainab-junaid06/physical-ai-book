@@ -1,0 +1,24 @@
+{
+  "id": "isaac/isaac-synthetic-data",
+  "title": "Synthetic Data Generation with Isaac Sim",
+  "description": "🖼️ What is Synthetic Data?",
+  "source": "@site/docs/isaac/isaac-synthetic-data.md",
+  "sourceDirName": "isaac",
+  "slug": "/isaac/isaac-synthetic-data",
+  "permalink": "/docs/isaac/isaac-synthetic-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac/isaac-synthetic-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrating Isaac Sim with Isaac ROS and ROS 2",
+    "permalink": "/docs/isaac/isaac-ros"
+  },
+  "next": {
+    "title": "Isaac Sim: Simulation Basics",
+    "permalink": "/docs/isaac/simulation"
+  }
+}

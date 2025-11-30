@@ -1,0 +1,29 @@
+{
+  "id": "ros2/ros-basics",
+  "title": "ROS2 Basics",
+  "description": "ROS2 is the operating system for robots.",
+  "source": "@site/docs/ros2/ros-basics.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/ros-basics",
+  "permalink": "/docs/ros2/ros-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/ros-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "ros-basics",
+    "title": "ROS2 Basics",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kinematics",
+    "permalink": "/docs/robotics/kinematics"
+  },
+  "next": {
+    "title": "ROS2 Nodes & Topics",
+    "permalink": "/docs/ros2/nodes-topics"
+  }
+}

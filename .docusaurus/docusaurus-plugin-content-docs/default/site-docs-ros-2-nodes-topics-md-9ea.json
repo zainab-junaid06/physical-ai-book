@@ -1,0 +1,29 @@
+{
+  "id": "ros2/nodes-topics",
+  "title": "ROS2 Nodes & Topics",
+  "description": "ROS2 nodes are the “apps” running inside your robot.",
+  "source": "@site/docs/ros2/nodes-topics.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/nodes-topics",
+  "permalink": "/docs/ros2/nodes-topics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/nodes-topics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "nodes-topics",
+    "title": "ROS2 Nodes & Topics",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS2 Basics",
+    "permalink": "/docs/ros2/ros-basics"
+  },
+  "next": {
+    "title": "ROS 2 Actions",
+    "permalink": "/docs/ros2/actions"
+  }
+}

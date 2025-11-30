@@ -1,0 +1,24 @@
+{
+  "id": "isaac/simulation",
+  "title": "Isaac Sim: Simulation Basics",
+  "description": "Isaac Sim is NVIDIA’s robotics simulator built for:",
+  "source": "@site/docs/isaac/simulation.md",
+  "sourceDirName": "isaac",
+  "slug": "/isaac/simulation",
+  "permalink": "/docs/isaac/simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac/simulation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Synthetic Data Generation with Isaac Sim",
+    "permalink": "/docs/isaac/isaac-synthetic-data"
+  },
+  "next": {
+    "title": "NVIDIA Isaac Sim",
+    "permalink": "/docs/isaac/vision"
+  }
+}

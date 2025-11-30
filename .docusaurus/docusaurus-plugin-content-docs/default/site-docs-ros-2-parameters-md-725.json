@@ -1,0 +1,24 @@
+{
+  "id": "ros2/parameters",
+  "title": "ROS 2 Parameter Management",
+  "description": "⚙️ What are ROS 2 Parameters?",
+  "source": "@site/docs/ros2/parameters.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/parameters",
+  "permalink": "/docs/ros2/parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/parameters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Packages",
+    "permalink": "/docs/ros2/packages"
+  },
+  "next": {
+    "title": "Rviz: The ROS 2 Visualization Tool",
+    "permalink": "/docs/ros2/rviz"
+  }
+}

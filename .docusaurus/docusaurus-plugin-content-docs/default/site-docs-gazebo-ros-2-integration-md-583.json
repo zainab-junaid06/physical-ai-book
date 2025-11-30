@@ -1,0 +1,24 @@
+{
+  "id": "gazebo/ros2-integration",
+  "title": "Gazebo ROS2 Integration",
+  "description": "Gazebo works seamlessly with ROS2 for robot simulation.",
+  "source": "@site/docs/gazebo/ros2-integration.md",
+  "sourceDirName": "gazebo",
+  "slug": "/gazebo/ros2-integration",
+  "permalink": "/docs/gazebo/ros2-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gazebo/ros2-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo and ROS 2 Integration",
+    "permalink": "/docs/gazebo/gazebo-ros"
+  },
+  "next": {
+    "title": "Simulating Robotic Sensors in Gazebo",
+    "permalink": "/docs/gazebo/sensors-simulation"
+  }
+}

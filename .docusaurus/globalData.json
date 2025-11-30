@@ -1,0 +1,213 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "ai/imitation-learning",
+          "docs": [
+            {
+              "id": "ai/imitation-learning",
+              "path": "/docs/ai/imitation-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai/rl-for-robotics",
+              "path": "/docs/ai/rl-for-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ai/training-data",
+              "path": "/docs/ai/training-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "capstone/project-overview",
+              "path": "/docs/capstone/project-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "control/pid",
+              "path": "/docs/control/pid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gazebo/gazebo-ros",
+              "path": "/docs/gazebo/gazebo-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gazebo/ros2-integration",
+              "path": "/docs/gazebo/ros2-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gazebo/sensors-simulation",
+              "path": "/docs/gazebo/sensors-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gazebo/simulation",
+              "path": "/docs/gazebo/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/isaac-basics",
+              "path": "/docs/isaac/isaac-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/isaac-nav",
+              "path": "/docs/isaac/isaac-nav",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/isaac-ros",
+              "path": "/docs/isaac/isaac-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/isaac-synthetic-data",
+              "path": "/docs/isaac/isaac-synthetic-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/simulation",
+              "path": "/docs/isaac/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac/vision",
+              "path": "/docs/isaac/vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai/embodied-intelligence",
+              "path": "/docs/physical-ai/embodied-intelligence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai/sensors",
+              "path": "/docs/physical-ai/sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai/what-is-ai",
+              "path": "/docs/physical-ai/what-is-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotics/control",
+              "path": "/docs/robotics/control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "robotics/kinematics",
+              "path": "/docs/robotics/kinematics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/actions",
+              "path": "/docs/ros2/actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/launch-files",
+              "path": "/docs/ros2/launch-files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/navigation2-basics",
+              "path": "/docs/ros2/navigation2-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/nodes-topics",
+              "path": "/docs/ros2/nodes-topics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/packages",
+              "path": "/docs/ros2/packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/parameters",
+              "path": "/docs/ros2/parameters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/ros-basics",
+              "path": "/docs/ros2/ros-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/rviz",
+              "path": "/docs/ros2/rviz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/services",
+              "path": "/docs/ros2/services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ros2/urdf",
+              "path": "/docs/ros2/urdf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "slam/slam-basics",
+              "path": "/docs/slam/slam-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "slam/visual-slam",
+              "path": "/docs/slam/visual-slam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "system/robot-operating-systems",
+              "path": "/docs/system/robot-operating-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/vision",
+              "path": "/docs/vla/vision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/vla-basics",
+              "path": "/docs/vla/vla-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/vla-robot-control",
+              "path": "/docs/vla/vla-robot-control",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/ai/imitation-learning",
+                "label": "ai/imitation-learning"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

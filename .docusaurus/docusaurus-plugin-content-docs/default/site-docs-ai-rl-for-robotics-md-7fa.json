@@ -1,0 +1,24 @@
+{
+  "id": "ai/rl-for-robotics",
+  "title": "Reinforcement Learning for Robotics",
+  "description": "Reinforcement Learning (RL) trains robots through trial + reward.",
+  "source": "@site/docs/ai/rl-for-robotics.md",
+  "sourceDirName": "ai",
+  "slug": "/ai/rl-for-robotics",
+  "permalink": "/docs/ai/rl-for-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ai/rl-for-robotics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Imitation Learning",
+    "permalink": "/docs/ai/imitation-learning"
+  },
+  "next": {
+    "title": "Training Data for Robotics AI",
+    "permalink": "/docs/ai/training-data"
+  }
+}

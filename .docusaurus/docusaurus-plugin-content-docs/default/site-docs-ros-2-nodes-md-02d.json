@@ -1,0 +1,24 @@
+{
+  "id": "ros2/nodes",
+  "title": "Introduction to Physical AI",
+  "description": "This course teaches robotics, humanoids, ROS2, Gazebo...",
+  "source": "@site/docs/ros2/nodes.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/nodes",
+  "permalink": "/docs/ros2/nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nodes-topics",
+    "permalink": "/docs/ros2/nodes-topics"
+  },
+  "next": {
+    "title": "ros-basics",
+    "permalink": "/docs/ros2/ros-basics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ai/training-data",
+  "title": "Training Data for Robotics AI",
+  "description": "Robotics AI needs high-quality data for:",
+  "source": "@site/docs/ai/training-data.md",
+  "sourceDirName": "ai",
+  "slug": "/ai/training-data",
+  "permalink": "/docs/ai/training-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ai/training-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reinforcement Learning for Robotics",
+    "permalink": "/docs/ai/rl-for-robotics"
+  },
+  "next": {
+    "title": "Capstone Project Overview: The Autonomous Humanoid",
+    "permalink": "/docs/capstone/project-overview"
+  }
+}

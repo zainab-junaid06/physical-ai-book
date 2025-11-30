@@ -1,0 +1,24 @@
+{
+  "id": "isaac/isaac-nav",
+  "title": "Isaac ROS and Nav2 for Navigation",
+  "description": "🛰️ Isaac ROS: Hardware-Accelerated Robotics",
+  "source": "@site/docs/isaac/isaac-nav.md",
+  "sourceDirName": "isaac",
+  "slug": "/isaac/isaac-nav",
+  "permalink": "/docs/isaac/isaac-nav",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac/isaac-nav.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Sim Basics",
+    "permalink": "/docs/isaac/isaac-basics"
+  },
+  "next": {
+    "title": "Integrating Isaac Sim with Isaac ROS and ROS 2",
+    "permalink": "/docs/isaac/isaac-ros"
+  }
+}

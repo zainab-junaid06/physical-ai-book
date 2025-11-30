@@ -1,0 +1,24 @@
+{
+  "id": "system/robot-operating-systems",
+  "title": "What is a Robot Operating System?",
+  "description": "ROS/ROS2 is not an operating system — it's a communication framework.",
+  "source": "@site/docs/system/robot-operating-systems.md",
+  "sourceDirName": "system",
+  "slug": "/system/robot-operating-systems",
+  "permalink": "/docs/system/robot-operating-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/system/robot-operating-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visual SLAM (VSLAM)",
+    "permalink": "/docs/slam/visual-slam"
+  },
+  "next": {
+    "title": "Vision for Robots",
+    "permalink": "/docs/vla/vision"
+  }
+}

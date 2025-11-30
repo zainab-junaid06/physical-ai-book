@@ -1,0 +1,24 @@
+{
+  "id": "gazebo/gazebo-ros",
+  "title": "Gazebo and ROS 2 Integration",
+  "description": "🌐 The Digital Twin: Gazebo Simulation Environment",
+  "source": "@site/docs/gazebo/gazebo-ros.md",
+  "sourceDirName": "gazebo",
+  "slug": "/gazebo/gazebo-ros",
+  "permalink": "/docs/gazebo/gazebo-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gazebo/gazebo-ros.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PID Control",
+    "permalink": "/docs/control/pid"
+  },
+  "next": {
+    "title": "Gazebo ROS2 Integration",
+    "permalink": "/docs/gazebo/ros2-integration"
+  }
+}

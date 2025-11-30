@@ -1,0 +1,24 @@
+{
+  "id": "isaac/isaac-basics",
+  "title": "NVIDIA Isaac Sim Basics",
+  "description": "🧊 The NVIDIA Isaac Platform",
+  "source": "@site/docs/isaac/isaac-basics.md",
+  "sourceDirName": "isaac",
+  "slug": "/isaac/isaac-basics",
+  "permalink": "/docs/isaac/isaac-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac/isaac-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Isaac ROS and Nav2 for Navigation",
+    "permalink": "/docs/isaac/isaac-nav"
+  }
+}

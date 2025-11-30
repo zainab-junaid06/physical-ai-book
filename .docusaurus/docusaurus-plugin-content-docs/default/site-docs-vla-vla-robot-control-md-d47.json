@@ -1,0 +1,20 @@
+{
+  "id": "vla/vla-robot-control",
+  "title": "VLA for Robot Control",
+  "description": "🗣️ Voice-to-Action Pipeline",
+  "source": "@site/docs/vla/vla-robot-control.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/vla-robot-control",
+  "permalink": "/docs/vla/vla-robot-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/vla-robot-control.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision-Language-Action (VLA) Basics",
+    "permalink": "/docs/vla/vla-basics"
+  }
+}

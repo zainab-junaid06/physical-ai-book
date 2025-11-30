@@ -1,0 +1,20 @@
+{
+  "id": "ai/imitation-learning",
+  "title": "Imitation Learning",
+  "description": "Imitation Learning (IL) is when robots learn by watching humans.",
+  "source": "@site/docs/ai/imitation-learning.md",
+  "sourceDirName": "ai",
+  "slug": "/ai/imitation-learning",
+  "permalink": "/docs/ai/imitation-learning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ai/imitation-learning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Reinforcement Learning for Robotics",
+    "permalink": "/docs/ai/rl-for-robotics"
+  }
+}

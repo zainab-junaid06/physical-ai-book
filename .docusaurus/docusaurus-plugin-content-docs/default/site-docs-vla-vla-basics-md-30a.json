@@ -1,0 +1,24 @@
+{
+  "id": "vla/vla-basics",
+  "title": "Vision-Language-Action (VLA) Basics",
+  "description": "🧠 The VLA Paradigm",
+  "source": "@site/docs/vla/vla-basics.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/vla-basics",
+  "permalink": "/docs/vla/vla-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/vla-basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vision for Robots",
+    "permalink": "/docs/vla/vision"
+  },
+  "next": {
+    "title": "VLA for Robot Control",
+    "permalink": "/docs/vla/vla-robot-control"
+  }
+}

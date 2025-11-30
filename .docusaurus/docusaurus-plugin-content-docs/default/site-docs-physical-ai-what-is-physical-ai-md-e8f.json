@@ -1,0 +1,24 @@
+{
+  "id": "physical-ai/what-is-physical-ai",
+  "title": "what-is-physical-ai",
+  "description": "",
+  "source": "@site/docs/physical-ai/what-is-physical-ai.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/what-is-physical-ai",
+  "permalink": "/docs/physical-ai/what-is-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/what-is-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/docs/physical-ai/sensors"
+  },
+  "next": {
+    "title": "Quick Start Guide",
+    "permalink": "/docs/quickstart"
+  }
+}

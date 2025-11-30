@@ -1,0 +1,24 @@
+{
+  "id": "ros2/actions",
+  "title": "ROS 2 Actions",
+  "description": "Actions are used for long-running tasks where:",
+  "source": "@site/docs/ros2/actions.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/actions",
+  "permalink": "/docs/ros2/actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/actions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS2 Nodes & Topics",
+    "permalink": "/docs/ros2/nodes-topics"
+  },
+  "next": {
+    "title": "ROS 2 Launch Files",
+    "permalink": "/docs/ros2/launch-files"
+  }
+}

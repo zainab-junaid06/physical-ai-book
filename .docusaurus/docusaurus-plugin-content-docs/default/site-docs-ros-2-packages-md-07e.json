@@ -1,0 +1,24 @@
+{
+  "id": "ros2/packages",
+  "title": "ROS 2 Packages",
+  "description": "A package is the basic building block in ROS 2.",
+  "source": "@site/docs/ros2/packages.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/packages",
+  "permalink": "/docs/ros2/packages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/packages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigation2 Basics",
+    "permalink": "/docs/ros2/navigation2-basics"
+  },
+  "next": {
+    "title": "ROS 2 Parameter Management",
+    "permalink": "/docs/ros2/parameters"
+  }
+}

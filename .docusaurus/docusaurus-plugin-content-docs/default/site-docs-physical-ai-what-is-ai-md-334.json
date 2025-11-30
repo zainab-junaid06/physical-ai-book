@@ -1,0 +1,29 @@
+{
+  "id": "physical-ai/what-is-ai",
+  "title": "What Is AI?",
+  "description": "Artificial Intelligence is all about making computers act smart — seeing, thinking, learning, and making decisions like humans (but faster).",
+  "source": "@site/docs/physical-ai/WhatIsAI.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/what-is-ai",
+  "permalink": "/docs/physical-ai/what-is-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/WhatIsAI.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "what-is-ai",
+    "title": "What Is AI?",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NVIDIA Isaac Sim",
+    "permalink": "/docs/isaac/vision"
+  },
+  "next": {
+    "title": "Robot Sensors",
+    "permalink": "/docs/physical-ai/sensors"
+  }
+}

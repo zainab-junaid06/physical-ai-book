@@ -1,0 +1,29 @@
+{
+  "id": "physical-ai/embodied-intelligence",
+  "title": "What Is Embodied Intelligence?",
+  "description": "Embodied Intelligence = AI with a body.",
+  "source": "@site/docs/physical-ai/embodied-intelligence.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/embodied-intelligence",
+  "permalink": "/docs/physical-ai/embodied-intelligence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/embodied-intelligence.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "embodied-intelligence",
+    "title": "What Is Embodied Intelligence?",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Sensors",
+    "permalink": "/docs/physical-ai/sensors"
+  },
+  "next": {
+    "title": "Control Systems",
+    "permalink": "/docs/robotics/control"
+  }
+}

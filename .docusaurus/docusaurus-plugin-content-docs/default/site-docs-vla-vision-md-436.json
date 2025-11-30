@@ -1,0 +1,24 @@
+{
+  "id": "vla/vision",
+  "title": "Vision for Robots",
+  "description": "Robots need eyes. Vision is how robots perceive and understand the world around them. Without vision, tasks like navigation, manipulation, and human interaction are impossible. 🤖🌐",
+  "source": "@site/docs/vla/vision.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/vision",
+  "permalink": "/docs/vla/vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is a Robot Operating System?",
+    "permalink": "/docs/system/robot-operating-systems"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA) Basics",
+    "permalink": "/docs/vla/vla-basics"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "isaac/isaac-ros",
+  "title": "Integrating Isaac Sim with Isaac ROS and ROS 2",
+  "description": "🌉 The Isaac ROS-2 Bridge",
+  "source": "@site/docs/isaac/isaac-ros.md",
+  "sourceDirName": "isaac",
+  "slug": "/isaac/isaac-ros",
+  "permalink": "/docs/isaac/isaac-ros",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac/isaac-ros.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac ROS and Nav2 for Navigation",
+    "permalink": "/docs/isaac/isaac-nav"
+  },
+  "next": {
+    "title": "Synthetic Data Generation with Isaac Sim",
+    "permalink": "/docs/isaac/isaac-synthetic-data"
+  }
+}

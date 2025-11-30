@@ -1,0 +1,24 @@
+{
+  "id": "ros2/urdf",
+  "title": "URDF",
+  "description": "URDF is the blueprint of your robot. It describes the robot’s structure, motion, visuals, and sensors, allowing simulators and ROS tools to understand it. 🏗️",
+  "source": "@site/docs/ros2/urdf.md",
+  "sourceDirName": "ros2",
+  "slug": "/ros2/urdf",
+  "permalink": "/docs/ros2/urdf",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2/urdf.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Services",
+    "permalink": "/docs/ros2/services"
+  },
+  "next": {
+    "title": "SLAM Basics: Simultaneous Localization and Mapping",
+    "permalink": "/docs/slam/slam-basics"
+  }
+}

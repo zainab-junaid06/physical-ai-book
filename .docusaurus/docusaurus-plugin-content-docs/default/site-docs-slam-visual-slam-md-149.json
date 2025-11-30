@@ -1,0 +1,24 @@
+{
+  "id": "slam/visual-slam",
+  "title": "Visual SLAM (VSLAM)",
+  "description": "📸 Introduction to VSLAM",
+  "source": "@site/docs/slam/visual-slam.md",
+  "sourceDirName": "slam",
+  "slug": "/slam/visual-slam",
+  "permalink": "/docs/slam/visual-slam",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/slam/visual-slam.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SLAM Basics: Simultaneous Localization and Mapping",
+    "permalink": "/docs/slam/slam-basics"
+  },
+  "next": {
+    "title": "What is a Robot Operating System?",
+    "permalink": "/docs/system/robot-operating-systems"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "peneversity-book",
+  "version": "1.0.0",
+  "description": "> **SpecifyPlus**: It enables Spec-driven Vibe-coding by combining the rapid, conversational generation power of \"vibe coding\" with the structure and architectural coherence provided by the \"spec-driven\" methodology. This is a enhanced Spec-Driven Development toolkit with patterns & templates for building scalable multi-agent AI systems. It is a practical fork of github/spec-kit for spec-driven development of agentic AI systems. It provides patterns, templates, and reference projects for building scalable, distributed multi-agent apps with the OpenAI Agents SDK, MCP, A2A, and a cloud-native runtime stack—Docker, Kubernetes, Dapr (Actors & Workflows), and Ray. Use it to define specs, spin up services, orchestrate agents, and ship production-ready stacks faster with guardrails and CI-friendly scaffolds.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
+    "gh-pages": "^6.3.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "physical-ai/sensors",
+  "title": "Robot Sensors",
+  "description": "Robots can’t do anything blind — sensors are their “superpowers”.",
+  "source": "@site/docs/physical-ai/sensors.md",
+  "sourceDirName": "physical-ai",
+  "slug": "/physical-ai/sensors",
+  "permalink": "/docs/physical-ai/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai/sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "sensors",
+    "title": "Robot Sensors",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What Is AI?",
+    "permalink": "/docs/physical-ai/what-is-ai"
+  },
+  "next": {
+    "title": "What Is Embodied Intelligence?",
+    "permalink": "/docs/physical-ai/embodied-intelligence"
+  }
+}
